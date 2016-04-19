@@ -1,0 +1,19 @@
+{
+  "name": "phlite-browsersync-config",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phlitewebsites/phlite-browsersync-config.git"
+  },
+  "author": "Dan Hayden <dhayden09@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phlitewebsites/phlite-browsersync-config/issues"
+  },
+  "homepage": "https://github.com/phlitewebsites/phlite-browsersync-config#readme"
+}
